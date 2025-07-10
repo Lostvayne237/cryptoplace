@@ -1,12 +1,21 @@
-# React + Vite
+# 💰 CryptoPlace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoPlace is a modern cryptocurrency tracking web application that allows users to view real-time data, explore individual coin details, and stay updated with market trends. Built using React, it offers a sleek and responsive user interface powered by live API data.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📊 Live cryptocurrency market data
+- 🔍 Search and explore coins by name or symbol
+- 📈 View historical price charts for selected coins
+- 🌐 Currency conversion (e.g., USD, EUR)
+- 📱 Fully responsive design
+- 📥 Simple signup form (in progress)
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – Frontend library
+- **React Router** – Page routing
+- **Chart.js / Recharts** – For data visualization
+- **Coingecko API** – Cryptocurrency data source
+- **CSS / Tailwind / Custom Styles** – Styling
+- **Axios** – API calls
